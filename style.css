@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+    font-family: "latolight", Helvetica, sans-serif;
+}
+.container{
+    width: 100%;
+    height: 350px;
+    background-color:white;
+}
+.container1{
+    position: relative;
+    width: 100%;
+    height: 1000px;
+    background-color:white;
+}
+.container1 ul{
+    position: absolute;
+    margin: 0 50px;
+    left: 290px;
+    top: 50px;
+    word-spacing: 10px;
+    text-decoration: none;
+    
+}
+.label1{
+    position: absolute;
+    left: 250px;
+    top: 50px;
+    color: #aaaaaa;
+
+}
+a{
+    text-decoration: none;
+    color: #aaaaaa;
+    
+}
+.img1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1100px;
+    top:40px;
+}
+.h21{
+    position: absolute;
+    left: 1150px;
+    top: 40px;
+    color: #777777;
+    font-weight: lighter;
+}
+.h11{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+.h41{
+    position: absolute;
+    left: 250px;
+    top: 260px;
+    color: #777777;
+    font-weight: lighter;
+}
+.h42{
+    position: absolute;
+    left: 250px;
+    right: 250px;
+    top: 300px;
+    color: #777777;
+    font-weight: lighter;
+    line-height: 30px;
+}
+.a1{
+    position: absolute;
+    left: 250px;
+    top: 500px;
+}
+.img2{
+    position: absolute;
+    top: 550px;
+    left: 250px;
+    width: 30px;
+    height: 30px;
+}
+.h12{
+    position: absolute;
+    top: 545px;
+    left: 290px;
+
+}
+.h31{
+    position: absolute;
+    top: 600px;
+    left: 250px;
+    right: 250px;
+    font-weight: lighter;
+    color: #777777;
+    line-height: 30px;
+}
+.h32{
+    position: absolute;
+    top: 680px;
+    left: 250px;
+    right: 250px;
+    font-weight: lighter;
+    color: #777777;
+    line-height: 30px;
+}
+.h33{
+    position: absolute;
+    top: 820px;
+    left: 250px;
+    font-weight: lighter;
+    color: #777777;
+}
+.img3{
+    position: absolute;
+    top: 850px;
+    left: 250px;
+}
+.h34{
+    position: absolute;
+    top: 910px;
+    left: 250px;
+    color: #777777;
+    font-weight: lighter;
+    
+}
+.img4{
+    position: absolute;
+    top: 1050px;
+    left: 250px;
+}
+.img5{
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+}
+.h35{
+    position: absolute;
+    top: 1350px;
+    left: 650px;
+    color: #777777;
+}
+.img6{
+    position: absolute;
+    top: 1400px;
+    left: 660px;
+}
+.container3{
+    position: absolute;
+    height: 350px;
+    width: 100%;
+    
+    top: 1970px;
+}
+.img7{
+    width: 100%;
+}
+
